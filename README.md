@@ -1,4 +1,4 @@
 # Git-Demo
 this is my first Git Repository
 <br>
-Autor - Syed Talal
+Autor - Syed Muhammad Talal
